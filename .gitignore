@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Application/obj
+/Application/bin
+/Infrastructure/bin
+/Infrastructure/obj
+/Domain/bin
+/Domain/obj
+/Infrastructure/bin
+/Infrastructure/obj
+/NetCoreWebApiChallenge/bin
+/NetCoreWebApiChallenge/obj

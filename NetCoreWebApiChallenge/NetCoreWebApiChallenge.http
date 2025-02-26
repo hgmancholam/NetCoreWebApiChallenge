@@ -1,0 +1,6 @@
+@NetCoreWebApiChallenge_HostAddress = http://localhost:5086
+
+GET {{NetCoreWebApiChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
